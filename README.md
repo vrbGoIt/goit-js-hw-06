@@ -1,3 +1,3 @@
-# goit-js-hw-03
+# goit-js-hw-06
 
-JS HomeWork3
+JS HomeWork6
